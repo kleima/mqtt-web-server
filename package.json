@@ -1,0 +1,15 @@
+{
+  "name": "mqtt-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqttWebServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mqtt": "^2.18.8"
+  }
+}
